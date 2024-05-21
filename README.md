@@ -2,7 +2,7 @@
 
 ## Description
 
-The Simple Enrollment System project simulates managing student enrollments in modules using Java. This program was created to complete an aspect of the Algorithms and Data Structures module.
+The Simple Enrollment System project simulates managing student enrollments in modules using Java. This program was created to complete an aspect of the Algorithms and Data Structures module for the university of Huddersfield.
 
 ## Usage
 
